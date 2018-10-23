@@ -18,7 +18,7 @@ favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
-github_username: gk1996dd@163.com
+github_username: gk1996TZ
 facebook_username: 
 weibo_username: 不期而遇的你cici
 zhihu_username: 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "陆小凤的小知识" # 你的名字
+      author: "陆小凤" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
