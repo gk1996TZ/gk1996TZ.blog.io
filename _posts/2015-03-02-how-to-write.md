@@ -13,7 +13,6 @@ JavaScript是一门面向对象的语言,所以创建对象就是必不可少的
 第一种方式:利用Object构造函数创建对象
 上代码:
 
-<html>
 <script type="text/javascript">
 //创建对象的第一种方式:利用Object构造函数创建对象
 var person=new Object();
@@ -25,7 +24,7 @@ alert(this.name+this.age);
 }
 person.info();
 </script>
-</html>
+
 这种方法是基于已经存在的Object对象去扩充他的属性和方法,缺点也很明显就是会有大量的重复代码,创建一个对象都有这些共同的代码
 
 
